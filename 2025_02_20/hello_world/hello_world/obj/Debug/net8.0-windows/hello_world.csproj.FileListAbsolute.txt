@@ -1,0 +1,17 @@
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\bin\Debug\net8.0-windows\hello_world.exe
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\bin\Debug\net8.0-windows\hello_world.deps.json
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\bin\Debug\net8.0-windows\hello_world.runtimeconfig.json
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\bin\Debug\net8.0-windows\hello_world.dll
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\bin\Debug\net8.0-windows\hello_world.pdb
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\hello_world.Form1.resources
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\hello_world.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\hello_world.AssemblyInfoInputs.cache
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\hello_world.AssemblyInfo.cs
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\hello_world.sourcelink.json
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\hello_world.dll
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\refint\hello_world.dll
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\hello_world.pdb
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\hello_world.genruntimeconfig.cache
+C:\Users\w401\Desktop\a113221045\2025_02_20\hello_world\hello_world\obj\Debug\net8.0-windows\ref\hello_world.dll
